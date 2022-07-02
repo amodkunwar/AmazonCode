@@ -1,7 +1,11 @@
 package com.amazon.practice;
 
 import java.util.Scanner;
-
+/***
+ * Write a program to check if a number is power of two or not.
+ * @author Amod
+ *
+ */
 public class PowerOfTwo {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
