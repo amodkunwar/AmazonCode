@@ -1,5 +1,8 @@
 package com.amazon.practice;
 
+/**
+ * SUM of two numbers which is equals to the target
+ */
 public class SumOfTwoNumbers {
 	public static void main(String[] args) {
 		int[] arr = { 2, 5, 7, 9, 11 };
