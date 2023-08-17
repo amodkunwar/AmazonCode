@@ -1,7 +1,7 @@
 package com.amazon.practice;
 
 /**
- * SUM of two numbers which is equals to the target
+ * SUM of two numbers which is equals to the target 
  */
 public class SumOfTwoNumbers {
 	public static void main(String[] args) {
