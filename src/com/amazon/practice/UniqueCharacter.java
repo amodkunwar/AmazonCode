@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /***
  * Write a program to find first unique character in string and return it's index.
- * @author Amod
+ * @author Amod Kunwar
  *
  */
 
